@@ -2,7 +2,7 @@
 <manifest>
   
     <remote name="los" fetch="https://github.com/LineageOS" />
-    <remote name="me" fetch="https://github.com/qayumin" />
+    <remote name="me" fetch="https://github.com/FlavorPixel-AOSP" />
 
     <project path="device/motorola/bangkk" name="android_device_motorola_bangkk" remote="me" revision="lineage-23.1"  />
     <project path="device/motorola/fogos" name="android_device_motorola_fogos" remote="me" revision="lineage-23.1"  />
@@ -16,6 +16,6 @@
   
     <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="me" revision="lineage-23.2"  />
     
-    <project path="hardware/motorola" name="android_hardware_motorola" remote="los" revision="lineage-23.1"  />
+    <project path="hardware/motorola" name="android_hardware_motorola" remote="los" revision="lineage-23.2"  />
 
 </manifest>
