@@ -1,1 +1,2 @@
-# local_manifests
+## AyakaUI-Devices manifest
+> local manifest for @AyakaUI
