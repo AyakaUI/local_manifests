@@ -5,7 +5,7 @@
     <remote name="me" fetch="https://github.com/AyakaUI-Devices" />
 
     <project path="device/motorola/bangkk" name="android_device_motorola_bangkk" remote="me" revision="sixteen-qpr2"  />
-    <project path="device/motorola/fogos" name="android_device_motorola_fogos" remote="me" revision="sixteen-qpr2"  />
+    <project path="device/motorola/fogos" name="android_device_motorola_fogos" remote="me" revision="ASCP"  />
   
     <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="me" revision="sixteen-qpr2"  />
 
