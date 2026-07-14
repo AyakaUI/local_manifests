@@ -1,5 +1,5 @@
 # local_manifests
 
 ```sh
-git clone https://github.com/AyakaUi/local_manifests -b bangkk/fogos .repo/local_manifests
+git clone https://github.com/AyakaUi/local_manifests -b ASCP .repo/local_manifests
 ```
