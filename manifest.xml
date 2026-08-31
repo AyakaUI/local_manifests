@@ -4,18 +4,16 @@
     <remote name="los" fetch="https://github.com/LineageOS" />
     <remote name="me" fetch="https://github.com/AyakaUI-Devices" />
 
-    <project path="device/motorola/bangkk" name="android_device_motorola_bangkk" remote="me" revision="seventeen"  />
-    <project path="device/motorola/fogos" name="android_device_motorola_fogos" remote="me" revision="seventeen"  />
+    <project path="device/samsung/c2s" name="android_device_samsung_c2s" remote="me" revision=""  />
   
-    <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="me" revision="seventeen"  />
+    <project path="device/samsung/9830-common" name="android_device_samsung_universal9830-common" remote="me" revision=""  />
 
-    <project path="vendor/motorola/bangkk" name="android_vendor_motorola_bangkk" remote="me" revision="seventeen"  />
-    <project path="vendor/motorola/fogos" name="android_vendor_motorola_fogos" remote="me" revision="seventeen"  />
+    <project path="vendor/samsung/c2s" name="android_vendor_samsung_c2s" remote="me" revision=""  />
   
-    <project path="vendor/motorola/sm6375-common" name="android_vendor_motorola_sm6375-common" remote="me" revision="seventeen"  />
+    <project path="vendor/samsung/9830-common" name="android_vendor_samsung_universal9830-common" remote="me" revision=""  />
   
-    <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="me" revision="seventeen"  />
-    
-    <project path="hardware/motorola" name="android_hardware_motorola" remote="los" revision="lineage-24.0"  />
+    <project path="kernel/samsung/exynos990" name="android_kernel_samsung_exynos990" remote="me" revision=""  />
+
+    <project path="hardware/motorola" name="android_hardware_motorola" remote="los" revision="lineage-23.2"  />
 
 </manifest>
