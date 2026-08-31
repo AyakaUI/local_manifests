@@ -14,6 +14,6 @@
   
     <project path="kernel/samsung/universal9830" name="android_kernel_samsung_exynos990" remote="me" revision="lineage-23.2"  />
 
-    <project path="hardware/motorola" name="android_hardware_motorola" remote="los" revision="lineage-23.2"  />
+    <project path="hardware/samsung" name="android_hardware_samsung" remote="los" revision="lineage-23.2"  />
 
 </manifest>
