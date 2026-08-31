@@ -12,7 +12,7 @@
   
     <project path="vendor/samsung/universal9830-common" name="android_vendor_samsung_universal9830-common" remote="me" revision="lineage-23.2"  />
   
-    <project path="kernel/samsung/universal9830" name="android_kernel_samsung_exynos990" remote="me" revision="lineage-23.2"  />
+    <project path="kernel/samsung/universal9830" name="android_kernel_samsung_universal9830" remote="me" revision="lineage-23.2"  />
 
     <project path="hardware/samsung" name="android_hardware_samsung" remote="los" revision="lineage-23.2"  />
 
