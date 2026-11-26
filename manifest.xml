@@ -46,6 +46,13 @@
   <remove-project path="vendor/motorola/sm6375-common" optional="true" />
   <project name="proprietary_vendor_motorola_sm6375-common" path="vendor/motorola/sm6375-common" remote="ayakadev" revision="seventeen" />
 
+  <remove-project path="device/motorola/bangkk" optional="true" />
+  <project name="android_device_motorola_bangkk" path="device/motorola/bangkk" remote="ayakadev" revision="seventeen" />
+  <remove-project path="device/motorola/bangkk-kernel" optional="true" />
+  <project name="android_device_motorola_bangkk-kernel" path="device/motorola/bangkk-kernel" remote="ayakadev" revision="seventeen" />
+  <remove-project path="vendor/motorola/bangkk" optional="true" />
+  <project name="proprietary_vendor_motorola_bangkk" path="vendor/motorola/bangkk" remote="ayakadev" revision="seventeen" />
+
   <remove-project path="hardware/qcom-caf/sm6375-6.1/audio/primary-hal" optional="true" />
   <project name="android_hardware_qcom_audio_ar" path="hardware/qcom-caf/sm6375-6.1/audio/primary-hal" remote="ayakaorg" revision="seventeen" />
   <remove-project path="hardware/qcom-caf/sm6375-6.1/audio/pal" optional="true" />
